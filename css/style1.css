@@ -9,3 +9,10 @@ main {
     justify-content: center;
     align-items: center;
 }
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    gap: 64px;
+    list-style-type: none;
+}
